@@ -221,4 +221,6 @@ Giving LLMs access to basic data structures should be a useful step towards more
 
 It also does not need to be only end-users that talk to such assistants. One can imagine ecosystems and platforms of assistants that interact with each other using natural language each taking responsibility for separate things using their available functionality and other assistants whose main responsibility is to interact in natural language with such lower-level assistants. Different assistants may have different access rights in the system, allowing for a system or platform where new assistants can easily be accessed while maintaining the user's privacy. Such a view parallels the idea of LLMs as forming the kernel of a new high-level operating system, see Andrej Kaparthy's twitter post. https://twitter.com/karpathy/status/1707437820045062561
 
-If you have any questions or comments or just want to talk about the many possibilities opened up by these technologies, please feel free to reach out. You can find me on kmrasmussen.com.
+If you have any questions or comments or just want to talk about the many possibilities opened up by these technologies, please feel free to reach out. You can find me on https://kmrasmussen.com
+
+The code for the prototype is available at https://github.com/kasmura/intelligent_list_manager
